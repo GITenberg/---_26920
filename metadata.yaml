@@ -1,0 +1,32 @@
+_repo: '---_26920'
+_version: 0.1.0
+alternative_title: Yan Tie Lun
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huan, Kuan, active 1st century B.C.
+    aliases:
+    - 桓寬
+    - Huan, Cigong
+    - Kan, Kan
+    - Gan, Gan
+    gutenberg_agent_id: '32330'
+    url: http://www.gutenberg.org/2009/agents/32330
+description: ''
+gutenberg_issued: '2008-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26920'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iron industry and trade -- China'
+- !lcsh 'Government monopolies -- China'
+- !lcsh 'Salt industry and trade -- China'
+- !lcc 'HD'
+title: 鹽鐵論
+url: http://www.gutenberg.org/ebooks/26920
